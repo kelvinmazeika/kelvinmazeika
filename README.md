@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
 
 ###
 

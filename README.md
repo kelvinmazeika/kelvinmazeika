@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
+<img align="right" height="100" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
 
 ###
 
@@ -72,10 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/kelvinmazeika/kelvinmazeika/output/snake.svg" alt="Snake animation" />
 
 ###
 

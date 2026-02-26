@@ -10,17 +10,17 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="100" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
-
-###
-
 <p align="left">My name is Kelvin and I'm a student, from SENAI Paulo Antonio Skaf!</p>
 
 ###
 
 <h2 align="left">About me</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="100" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
 
 ###
 

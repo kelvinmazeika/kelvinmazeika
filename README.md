@@ -4,15 +4,15 @@
 
 ###
 
-<div align="right">
-  <img height="100" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
-</div>
+<br clear="both">
+
+<h2 align="left">What's up?</h2>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">What's up?</h2>
+<img align="right" height="100" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
 
 ###
 

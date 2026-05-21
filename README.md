@@ -1,49 +1,50 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=90&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+<!-- BANNER -->
+<div align="center">
+  <img src="https://github.com/kelvinmazeika/kelvinmazeika/blob/main/background.jpg" width="100%" alt="banner"/>
 </div>
 
-###
-
-<br clear="both">
-
-<h2 align="left">What's up?</h2>
-
-###
-
-<p align="left">My name is Kelvin and I'm a student, from SENAI Paulo Antonio Skaf!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/Nsn-QHimOqoAAAAC/berserk-griffith.gif"  />
-
-###
-
-<p align="left">Macro Games #1 Fan<br>Current Learning GIT</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://br.linkedin.com/in/kelvin-mazeika-25a53a381" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="justdr4vil" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  </a>
+<!-- TITLE -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Infant&pause=1000&color=D2D2D2&center=true&width=435&lines=Developer;I'm+Done+Dreaming" alt="Typing SVG" /></a>
 </div>
 
-###
+<br/>
 
-<h2 align="left">I code with</h2>
+<!-- CONTACT -->
+<div align="center">
 
-###
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinmazeika)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+**> Student Developer**
+
+> *"The world isn’t wrong. It just is."*
+
+Currently deepening my studies in **Python**, and **web development**.
+
+I also have experience with **HTML**, **CSS**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
+
+
+<br clear="right"/>
+
+
+◈  Class     →  Student Developer
+◈  Origin    →  Brazil 🇧🇷
+
+---
+
+## Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
@@ -51,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
@@ -77,10 +76,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+## Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+
 </div>
 
-###
+---
+
+## 📜 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
+
+</div>
+
+---
+
+## 🕯️ Bonfires Lit — Education
+
+| | Course | Status |
+|:---:|:---|:---:|
+| ◈ | Desenvolvimento de Sistemas | 🔄 In Progress |
+
+---
+
+<div align="center">
+
+*Pain makes people grow.*
+
+</div>

@@ -82,7 +82,7 @@ I also have experience with **HTML**, **CSS**, **Node.js**, **Git** and am curre
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=kelvinmazeika&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
 
 </div>
 
@@ -92,7 +92,7 @@ I also have experience with **HTML**, **CSS**, **Node.js**, **Git** and am curre
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/kelvinmazeika)
 
 </div>
 
